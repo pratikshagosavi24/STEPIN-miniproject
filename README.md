@@ -1,4 +1,6 @@
 # Library management system
+![code_quality_score](https://www.code-inspector.com/project/28135/score/svg)
+![code_grade](https://www.code-inspector.com/project/28135/status/svg)
 
 ![alfons-morales-YLSwjSy7stw-unsplash](https://user-images.githubusercontent.com/61780164/114907664-ef97eb00-9e38-11eb-89d6-d92a66d32046.jpg)
 
